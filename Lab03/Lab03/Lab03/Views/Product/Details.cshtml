@@ -1,0 +1,26 @@
+@model List<Product>
+
+<div class="container col-md-10 offset-md-1">
+    <h3>Danh sách sản phẩm</h3>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Tên sản phẩm</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
