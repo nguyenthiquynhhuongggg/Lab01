@@ -1,0 +1,14 @@
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/bin/Debug/net9.0/Bai09
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/bin/Debug/net9.0/Bai09.deps.json
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/bin/Debug/net9.0/Bai09.runtimeconfig.json
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/bin/Debug/net9.0/Bai09.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/bin/Debug/net9.0/Bai09.pdb
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/Bai09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/Bai09.AssemblyInfoInputs.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/Bai09.AssemblyInfo.cs
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/Bai09.csproj.CoreCompileInputs.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/Bai09.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/refint/Bai09.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/Bai09.pdb
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/Bai09.genruntimeconfig.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai09/obj/Debug/net9.0/ref/Bai09.dll

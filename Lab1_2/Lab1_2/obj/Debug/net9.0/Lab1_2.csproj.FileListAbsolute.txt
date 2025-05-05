@@ -1,0 +1,14 @@
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/bin/Debug/net9.0/Lab1_2
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/bin/Debug/net9.0/Lab1_2.deps.json
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/bin/Debug/net9.0/Lab1_2.runtimeconfig.json
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/bin/Debug/net9.0/Lab1_2.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/bin/Debug/net9.0/Lab1_2.pdb
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/Lab1_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/Lab1_2.AssemblyInfoInputs.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/Lab1_2.AssemblyInfo.cs
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/Lab1_2.csproj.CoreCompileInputs.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/Lab1_2.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/refint/Lab1_2.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/Lab1_2.pdb
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/Lab1_2.genruntimeconfig.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_2/Lab1_2/obj/Debug/net9.0/ref/Lab1_2.dll

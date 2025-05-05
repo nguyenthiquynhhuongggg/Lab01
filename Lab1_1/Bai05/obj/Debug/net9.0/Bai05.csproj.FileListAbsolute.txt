@@ -1,0 +1,14 @@
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/bin/Debug/net9.0/Bai05
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/bin/Debug/net9.0/Bai05.deps.json
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/bin/Debug/net9.0/Bai05.runtimeconfig.json
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/bin/Debug/net9.0/Bai05.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/bin/Debug/net9.0/Bai05.pdb
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/Bai05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/Bai05.AssemblyInfoInputs.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/Bai05.AssemblyInfo.cs
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/Bai05.csproj.CoreCompileInputs.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/Bai05.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/refint/Bai05.dll
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/Bai05.pdb
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/Bai05.genruntimeconfig.cache
+/Users/Onnie/Documents/Back - End/Lab01/Lab1_1/Bai05/obj/Debug/net9.0/ref/Bai05.dll
